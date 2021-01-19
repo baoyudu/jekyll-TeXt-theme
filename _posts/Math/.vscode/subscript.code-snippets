@@ -1,0 +1,530 @@
+{
+	"b n": {
+		"scope": "",
+		"prefix": "b n",
+		"body": "b _n",
+		"description": "b n"
+	},
+	"c n": {
+		"scope": "",
+		"prefix": "c n",
+		"body": "c _n",
+		"description": "c n"
+	},
+	"b 3": {
+		"scope": "",
+		"prefix": "b 3",
+		"body": "b _3",
+		"description": "b 3"
+	},
+	"c 3": {
+		"scope": "",
+		"prefix": "c 3",
+		"body": "c _3",
+		"description": "c 3"
+	},
+	"b 2": {
+		"scope": "",
+		"prefix": "b 2",
+		"body": "b _2",
+		"description": "b 2"
+	},
+	"c 2": {
+		"scope": "",
+		"prefix": "c 2",
+		"body": "c _2",
+		"description": "c 2"
+	},
+	"b 1": {
+		"scope": "",
+		"prefix": "b 1",
+		"body": "b _1",
+		"description": "b 1"
+	},
+	"c 1": {
+		"scope": "",
+		"prefix": "c 1",
+		"body": "c _1",
+		"description": "c 1"
+	},
+	"d 1": {
+		"scope": "",
+		"prefix": "d 1",
+		"body": "d _1",
+		"description": "d 1"
+	},
+	"e 1": {
+		"scope": "",
+		"prefix": "e 1",
+		"body": "e _1",
+		"description": "e 1"
+	},
+	"f 1": {
+		"scope": "",
+		"prefix": "f 1",
+		"body": "f _1",
+		"description": "f 1"
+	},
+	"g 1": {
+		"scope": "",
+		"prefix": "g 1",
+		"body": "g _1",
+		"description": "g 1"
+	},
+	"h 1": {
+		"scope": "",
+		"prefix": "h 1",
+		"body": "h _1",
+		"description": "h 1"
+	},
+	"i 1": {
+		"scope": "",
+		"prefix": "i 1",
+		"body": "i _1",
+		"description": "i 1"
+	},
+	"j 1": {
+		"scope": "",
+		"prefix": "j 1",
+		"body": "j _1",
+		"description": "j 1"
+	},
+	"k 1": {
+		"scope": "",
+		"prefix": "k 1",
+		"body": "k _1",
+		"description": "k 1"
+	},
+	"l 1": {
+		"scope": "",
+		"prefix": "l 1",
+		"body": "l _1",
+		"description": "l 1"
+	},
+	"m 1": {
+		"scope": "",
+		"prefix": "m 1",
+		"body": "m _1",
+		"description": "m 1"
+	},
+	"n 1": {
+		"scope": "",
+		"prefix": "n 1",
+		"body": "n _1",
+		"description": "n 1"
+	},
+	"o 1": {
+		"scope": "",
+		"prefix": "o 1",
+		"body": "o _1",
+		"description": "o 1"
+	},
+	"p 1": {
+		"scope": "",
+		"prefix": "p 1",
+		"body": "p _1",
+		"description": "p 1"
+	},
+	"q 1": {
+		"scope": "",
+		"prefix": "q 1",
+		"body": "q _1",
+		"description": "q 1"
+	},
+	"r 1": {
+		"scope": "",
+		"prefix": "r 1",
+		"body": "r _1",
+		"description": "r 1"
+	},
+	"s 1": {
+		"scope": "",
+		"prefix": "s 1",
+		"body": "s _1",
+		"description": "s 1"
+	},
+	"t 1": {
+		"scope": "",
+		"prefix": "t 1",
+		"body": "t _1",
+		"description": "t 1"
+	},
+	"u 1": {
+		"scope": "",
+		"prefix": "u 1",
+		"body": "u _1",
+		"description": "u 1"
+	},
+	"v 1": {
+		"scope": "",
+		"prefix": "v 1",
+		"body": "v _1",
+		"description": "v 1"
+	},
+	"w 1": {
+		"scope": "",
+		"prefix": "w 1",
+		"body": "w _1",
+		"description": "w 1"
+	},
+	"d 2": {
+		"scope": "",
+		"prefix": "d 2",
+		"body": "d _2",
+		"description": "d 2"
+	},
+	"e 2": {
+		"scope": "",
+		"prefix": "e 2",
+		"body": "e _2",
+		"description": "e 2"
+	},
+	"f 2": {
+		"scope": "",
+		"prefix": "f 2",
+		"body": "f _2",
+		"description": "f 2"
+	},
+	"g 2": {
+		"scope": "",
+		"prefix": "g 2",
+		"body": "g _2",
+		"description": "g 2"
+	},
+	"h 2": {
+		"scope": "",
+		"prefix": "h 2",
+		"body": "h _2",
+		"description": "h 2"
+	},
+	"i 2": {
+		"scope": "",
+		"prefix": "i 2",
+		"body": "i _2",
+		"description": "i 2"
+	},
+	"j 2": {
+		"scope": "",
+		"prefix": "j 2",
+		"body": "j _2",
+		"description": "j 2"
+	},
+	"k 2": {
+		"scope": "",
+		"prefix": "k 2",
+		"body": "k _2",
+		"description": "k 2"
+	},
+	"l 2": {
+		"scope": "",
+		"prefix": "l 2",
+		"body": "l _2",
+		"description": "l 2"
+	},
+	"m 2": {
+		"scope": "",
+		"prefix": "m 2",
+		"body": "m _2",
+		"description": "m 2"
+	},
+	"n 2": {
+		"scope": "",
+		"prefix": "n 2",
+		"body": "n _2",
+		"description": "n 2"
+	},
+	"o 2": {
+		"scope": "",
+		"prefix": "o 2",
+		"body": "o _2",
+		"description": "o 2"
+	},
+	"p 2": {
+		"scope": "",
+		"prefix": "p 2",
+		"body": "p _2",
+		"description": "p 2"
+	},
+	"q 2": {
+		"scope": "",
+		"prefix": "q 2",
+		"body": "q _2",
+		"description": "q 2"
+	},
+	"r 2": {
+		"scope": "",
+		"prefix": "r 2",
+		"body": "r _2",
+		"description": "r 2"
+	},
+	"s 2": {
+		"scope": "",
+		"prefix": "s 2",
+		"body": "s _2",
+		"description": "s 2"
+	},
+	"t 2": {
+		"scope": "",
+		"prefix": "t 2",
+		"body": "t _2",
+		"description": "t 2"
+	},
+	"u 2": {
+		"scope": "",
+		"prefix": "u 2",
+		"body": "u _2",
+		"description": "u 2"
+	},
+	"v 2": {
+		"scope": "",
+		"prefix": "v 2",
+		"body": "v _2",
+		"description": "v 2"
+	},
+	"w 2": {
+		"scope": "",
+		"prefix": "w 2",
+		"body": "w _2",
+		"description": "w 2"
+	},
+	"d 3": {
+		"scope": "",
+		"prefix": "d 3",
+		"body": "d _3",
+		"description": "d 3"
+	},
+	"e 3": {
+		"scope": "",
+		"prefix": "e 3",
+		"body": "e _3",
+		"description": "e 3"
+	},
+	"f 3": {
+		"scope": "",
+		"prefix": "f 3",
+		"body": "f _3",
+		"description": "f 3"
+	},
+	"g 3": {
+		"scope": "",
+		"prefix": "g 3",
+		"body": "g _3",
+		"description": "g 3"
+	},
+	"h 3": {
+		"scope": "",
+		"prefix": "h 3",
+		"body": "h _3",
+		"description": "h 3"
+	},
+	"i 3": {
+		"scope": "",
+		"prefix": "i 3",
+		"body": "i _3",
+		"description": "i 3"
+	},
+	"j 3": {
+		"scope": "",
+		"prefix": "j 3",
+		"body": "j _3",
+		"description": "j 3"
+	},
+	"k 3": {
+		"scope": "",
+		"prefix": "k 3",
+		"body": "k _3",
+		"description": "k 3"
+	},
+	"l 3": {
+		"scope": "",
+		"prefix": "l 3",
+		"body": "l _3",
+		"description": "l 3"
+	},
+	"m 3": {
+		"scope": "",
+		"prefix": "m 3",
+		"body": "m _3",
+		"description": "m 3"
+	},
+	"n 3": {
+		"scope": "",
+		"prefix": "n 3",
+		"body": "n _3",
+		"description": "n 3"
+	},
+	"o 3": {
+		"scope": "",
+		"prefix": "o 3",
+		"body": "o _3",
+		"description": "o 3"
+	},
+	"p 3": {
+		"scope": "",
+		"prefix": "p 3",
+		"body": "p _3",
+		"description": "p 3"
+	},
+	"q 3": {
+		"scope": "",
+		"prefix": "q 3",
+		"body": "q _3",
+		"description": "q 3"
+	},
+	"r 3": {
+		"scope": "",
+		"prefix": "r 3",
+		"body": "r _3",
+		"description": "r 3"
+	},
+	"s 3": {
+		"scope": "",
+		"prefix": "s 3",
+		"body": "s _3",
+		"description": "s 3"
+	},
+	"t 3": {
+		"scope": "",
+		"prefix": "t 3",
+		"body": "t _3",
+		"description": "t 3"
+	},
+	"u 3": {
+		"scope": "",
+		"prefix": "u 3",
+		"body": "u _3",
+		"description": "u 3"
+	},
+	"v 3": {
+		"scope": "",
+		"prefix": "v 3",
+		"body": "v _3",
+		"description": "v 3"
+	},
+	"w 3": {
+		"scope": "",
+		"prefix": "w 3",
+		"body": "w _3",
+		"description": "w 3"
+	},
+	"d n": {
+		"scope": "",
+		"prefix": "d n",
+		"body": "d _n",
+		"description": "d n"
+	},
+	"e n": {
+		"scope": "",
+		"prefix": "e n",
+		"body": "e _n",
+		"description": "e n"
+	},
+	"f n": {
+		"scope": "",
+		"prefix": "f n",
+		"body": "f _n",
+		"description": "f n"
+	},
+	"g n": {
+		"scope": "",
+		"prefix": "g n",
+		"body": "g _n",
+		"description": "g n"
+	},
+	"h n": {
+		"scope": "",
+		"prefix": "h n",
+		"body": "h _n",
+		"description": "h n"
+	},
+	"i n": {
+		"scope": "",
+		"prefix": "i n",
+		"body": "i _n",
+		"description": "i n"
+	},
+	"j n": {
+		"scope": "",
+		"prefix": "j n",
+		"body": "j _n",
+		"description": "j n"
+	},
+	"k n": {
+		"scope": "",
+		"prefix": "k n",
+		"body": "k _n",
+		"description": "k n"
+	},
+	"l n": {
+		"scope": "",
+		"prefix": "l n",
+		"body": "l _n",
+		"description": "l n"
+	},
+	"m n": {
+		"scope": "",
+		"prefix": "m n",
+		"body": "m _n",
+		"description": "m n"
+	},
+	"n n": {
+		"scope": "",
+		"prefix": "n n",
+		"body": "n _n",
+		"description": "n n"
+	},
+	"o n": {
+		"scope": "",
+		"prefix": "o n",
+		"body": "o _n",
+		"description": "o n"
+	},
+	"p n": {
+		"scope": "",
+		"prefix": "p n",
+		"body": "p _n",
+		"description": "p n"
+	},
+	"q n": {
+		"scope": "",
+		"prefix": "q n",
+		"body": "q _n",
+		"description": "q n"
+	},
+	"r n": {
+		"scope": "",
+		"prefix": "r n",
+		"body": "r _n",
+		"description": "r n"
+	},
+	"s n": {
+		"scope": "",
+		"prefix": "s n",
+		"body": "s _n",
+		"description": "s n"
+	},
+	"t n": {
+		"scope": "",
+		"prefix": "t n",
+		"body": "t _n",
+		"description": "t n"
+	},
+	"u n": {
+		"scope": "",
+		"prefix": "u n",
+		"body": "u _n",
+		"description": "u n"
+	},
+	"v n": {
+		"scope": "",
+		"prefix": "v n",
+		"body": "v _n",
+		"description": "v n"
+	},
+	"w n": {
+		"scope": "",
+		"prefix": "w n",
+		"body": "w _n",
+		"description": "w n"
+	}
+}
